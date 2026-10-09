@@ -6,9 +6,7 @@ I am a **Cybersecurity & Vulnerability Consultant** with demonstrable hands-on e
 - 🔭 **Current Focus:** Triaging automated alerting, tracking emerging threats, and coordinating rapid mitigation strategies with partner teams.
 - 🌱 **Learning Journey:** Currently expanding my skills in **Web Application Security & Testing**.
 - 💬 **Ask Me About:** Vulnerability lifecycles, interpreting CVSS scores, or Linux/macOS systems security.
-- ⚡ **Fun Fact:** [Add an optional fun fact here!]
 
----
 
 ### 🚀 Core Expertise & Technical Capabilities
 * **Vulnerability Lifecycle Management:** Working closely with project management to drive identified security issues all the way from initial discovery through to verified patch closure.
