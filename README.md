@@ -29,7 +29,7 @@ Here are the core tools, environments, and standards I work with:
 
 ### 🤝 Connect & Collaborate
 I am always looking to connect with fellow security IT professionals, engineering partners, and peers!
-## Hi there 👋
+
 
 <!--
 **kgdartey-001/kgdartey-001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
